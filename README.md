@@ -23,3 +23,6 @@ The transmitter sends information using rapid changes in light intensity. The LD
 - Indoor communication
 - Smart lighting systems
 - Short-range data transmission
+- ## Project Prototype
+
+![LiFi Project Prototype](IMG-20260821-WA0028.jpg)
